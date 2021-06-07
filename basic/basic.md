@@ -48,6 +48,47 @@
   Driver Editor
     2 Object 2D interact together, example Axis and gear
   Non-linear Editor
-    Action as walking, raise hand...for people example.
-  
-  
+    Action as walking, raise hand...for people example.  
+  Scripting editor
+    Viết code, note -> có thể chạy Run Script
+    Muốn hiển thị console vào Window -> Toggle System Console 
+  Python console
+    Có sẵn api cho python, ví dụ viết dir() sẽ hiển thị thư mục
+  Info editor 
+    Sẽ thấy các thứ ta làm trong blender
+  Data Editor (Outliner)
+    Là phần Area 2 có scene collection như camera, line, cube
+    Có thể hidden một số obj hoặc organise nó thành các collection
+
+Properties
+    là phần Area 3
+File browser
+  Để import/export file là chủ yếu
+Toolbar
+  Vào mục Edit
+    Interface dùng để thay đổi reesolutiob hay Navigation Control
+    Theme | sẽ có thay đỏi vertex size
+    Light | sẽ thay đổi Editor Studio Light
+    Navigation
+      dấu tick vào Orbit Around thì có thể chọn obj và quay xung quanh
+      Zoom mouse | có thể ấn vào đâu đó xong zoom nó sẽ vào điểm đó
+    Hotkey
+      Chọn ở đây hoặc vào các menu item xong chuột phải để Assign hotkey
+Save
+  AAnns +/- nếu muốn thay đổi copy index
+  Save copy 
+    dung để save backup file
+Backup
+  File -> Recover -> last session (dùng khi dont save khi Quit)
+Import/Export
+  Nếu muốn import và export các định dạng # thì vào Setting -> Preference -> Addon -> Import/Export
+Object Type of See
+  Theo Numpaf thì 1 là nhìn chính diện, 3 là sideview, top 7
+  2,8 là trái /phải 15 độ
+  Tọa độ x,y,z cũng có thể nhìn object theo 3 chiều
+Unit measurement
+  Vào Area 3 có mục tam giác và dấu tròn sẽ thấy Units
+  Có thể chia 1 ô to thành 12 ô nhỏ vào subdivition ở phần tròn/tam giác phía bên trên phải
+Shading (trên phải top)
+  Ấn Z để xem options gồm Wireframe mode, solid mode...
+  Ấn Ctril + Z để chuyển nhanh sang wireframe mode
