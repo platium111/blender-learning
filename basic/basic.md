@@ -92,3 +92,9 @@ Unit measurement
 Shading (trên phải top)
   Ấn Z để xem options gồm Wireframe mode, solid mode...
   Ấn Ctril + Z để chuyển nhanh sang wireframe mode
+  Thông thưỡng sẽ thấy bên trong độ lõm thế nào, nếu chọn option (dấu mũi xuống ở top right sẽ thấy Backface culling) -> không nhìn thẫy lõm khi view bên trong
+  Chỉnh color
+    vào phần Clor -> SIngle -> sẽ change đc color
+  X ray
+    tạo transparent, rất quan trọng vì nhìn các điểm xuyên thấu được, kết hợp với G có thể edit model trực tiếp
+    

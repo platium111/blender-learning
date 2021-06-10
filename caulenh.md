@@ -1,6 +1,6 @@
 Display/hide | using `N/T` shortcut
 swap view by `holding Ctril` and drag to another view
-Frame 1, `press I` -> choose Location\
+Frame 1, `press I` -> choose Location
 Di chuyển obj | ấn `G`
 Di Chuuyen scene trong 3D thay vì obj | `Shift + middle mouse`
 Chuyển sang Edit mode, thấy vertext point | Ấn `tab`
